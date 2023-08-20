@@ -1,2 +1,2 @@
 # option-xy
-optionxy-example
+optionxy-example -practice example sample
